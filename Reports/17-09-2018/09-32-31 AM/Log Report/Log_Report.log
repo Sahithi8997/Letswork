@@ -1,0 +1,8 @@
+2018-09-17 09:32:33 INFO  BaseClass:44 - TEST -> BookVenue 1
+2018-09-17 09:32:33 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-17 09:32:33 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-17 09:32:33 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-17 09:32:33 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-17 09:32:33 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1046818/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-17 09:32:34 INFO  BaseClass:87 - COMPLETE !!!
+2018-09-17 09:32:37 ERROR BaseClass:56 - Email Sending Failed

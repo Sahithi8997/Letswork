@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41962" started-at="2018-09-20T04:13:17Z" finished-at="2018-09-20T04:13:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41962" started-at="2018-09-20T04:13:17Z" finished-at="2018-09-20T04:13:59Z">
+      <class name="com.FrameWork.Hybrid.executionclass.Test1">
+        <test-method status="PASS" signature="functionality(java.util.LinkedHashMap)[pri:0, instance:com.FrameWork.Hybrid.executionclass.Test1@68bbe345]" name="functionality" duration-ms="39580" started-at="2018-09-20T04:13:19Z" data-provider="Data" finished-at="2018-09-20T04:13:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Test Case=1, TC_ID=BookVenue, Run Mode=Y, User Name=Sahithi1, Password=Sahithi@123, From Date=09/20/2018 3:45 PM, To Date=09/20/2018 4:45 PM, City=Hyderabad, Expected Output=Your booking for the venue is confirmed!, Expected Outputs=Great Place To Book Your Venue}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- functionality -->
+        <test-method status="PASS" signature="end()[pri:0, instance:com.FrameWork.Hybrid.executionclass.Test1@68bbe345]" name="end" is-config="true" duration-ms="594" started-at="2018-09-20T04:13:59Z" finished-at="2018-09-20T04:13:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- com.FrameWork.Hybrid.executionclass.Test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

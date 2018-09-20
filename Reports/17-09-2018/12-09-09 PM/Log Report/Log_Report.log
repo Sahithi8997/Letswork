@@ -1,0 +1,22 @@
+2018-09-17 12:09:11 INFO  BaseClass:44 - TEST -> BookVenue 1
+2018-09-17 12:09:14 INFO  BaseClass:37 - Browser Opened
+2018-09-17 12:09:22 INFO  BaseClass:51 - Navigated to URL
+2018-09-17 12:09:26 INFO  BaseClass:63 - From Date Passed
+2018-09-17 12:09:27 INFO  BaseClass:63 - tab Passed
+2018-09-17 12:09:28 INFO  BaseClass:63 - From Time Passed
+2018-09-17 12:09:33 INFO  BaseClass:63 - To Date Passed
+2018-09-17 12:09:33 INFO  BaseClass:63 - tab Passed
+2018-09-17 12:09:34 INFO  BaseClass:63 - To Time Passed
+2018-09-17 12:09:36 INFO  BaseClass:63 - City Passed
+2018-09-17 12:09:37 INFO  BaseClass:84 - Button click passed
+2018-09-17 12:09:37 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-17 12:09:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-17 12:09:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-17 12:09:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-17 12:09:37 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1046818/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-17 12:09:38 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-17 12:09:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-17 12:09:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-17 12:09:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-17 12:09:38 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1046818/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-17 12:09:38 INFO  BaseClass:88 - COMPLETE !!!

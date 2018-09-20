@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Login Functionality(failed)">
+    <classes>
+      <class name="com.FrameWork.Hybrid.executionclass.LoginFunctionality">
+        <methods>
+          <include name="navigate"/>
+          <include name="testCase"/>
+          <include name="Exit"/>
+        </methods>
+      </class> <!-- com.FrameWork.Hybrid.executionclass.LoginFunctionality -->
+    </classes>
+  </test> <!-- Login Functionality(failed) -->
+</suite> <!-- Failed suite [Suite] -->

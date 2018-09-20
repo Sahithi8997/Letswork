@@ -1,0 +1,22 @@
+2018-09-20 09:26:53 INFO  BaseClass:44 - TEST -> BookVenue 1
+2018-09-20 09:26:56 INFO  BaseClass:37 - Browser Opened
+2018-09-20 09:27:07 INFO  BaseClass:51 - Navigated to URL
+2018-09-20 09:27:13 INFO  BaseClass:63 - From Date Passed
+2018-09-20 09:27:14 INFO  BaseClass:84 - Button click passed
+2018-09-20 09:27:16 INFO  BaseClass:63 - To Date Passed
+2018-09-20 09:27:17 INFO  BaseClass:84 - Button click passed
+2018-09-20 09:27:20 INFO  BaseClass:63 - City Passed
+2018-09-20 09:27:22 INFO  BaseClass:84 - Button click passed
+2018-09-20 09:27:23 INFO  BaseClass:84 - Button click passed
+2018-09-20 09:27:33 INFO  BaseClass:42 - Browser Closed
+2018-09-20 09:27:33 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-20 09:27:33 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-20 09:27:33 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-20 09:27:33 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-20 09:27:33 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1046818/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-20 09:27:34 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-20 09:27:34 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-20 09:27:34 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-20 09:27:34 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-20 09:27:34 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1046818/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-20 09:27:34 INFO  BaseClass:88 - COMPLETE !!!

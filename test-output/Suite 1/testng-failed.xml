@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite 1]">
+  <test thread-count="5" name="Test 1(failed)">
+    <classes>
+      <class name="com.FrameWork.Hybrid.executionclass.Test1">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="functionality" invocation-numbers="2"/>
+          <include name="openBrowser"/>
+        </methods>
+      </class> <!-- com.FrameWork.Hybrid.executionclass.Test1 -->
+    </classes>
+  </test> <!-- Test 1(failed) -->
+</suite> <!-- Failed suite [Suite 1] -->

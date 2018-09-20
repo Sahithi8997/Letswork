@@ -1,0 +1,104 @@
+2018-09-14 09:54:28 INFO  BaseClass:39 - Test Started
+2018-09-14 09:54:28 INFO  BaseClass:45 - Register 1
+2018-09-14 09:54:31 INFO  BaseClass:27 - Browser Opened
+2018-09-14 09:54:47 INFO  BaseClass:41 - Navigated to URL
+2018-09-14 09:54:49 INFO  BaseClass:72 - Button click passed
+2018-09-14 09:54:49 INFO  BaseClass:72 - Button click passed
+2018-09-14 09:54:50 INFO  BaseClass:52 - User Name Passed
+2018-09-14 09:54:50 INFO  BaseClass:52 - First Name Passed
+2018-09-14 09:54:51 INFO  BaseClass:52 - Last Name Passed
+2018-09-14 09:54:51 INFO  BaseClass:52 - Contact Passed
+2018-09-14 09:54:52 INFO  BaseClass:52 - Email Passed
+2018-09-14 09:54:52 INFO  BaseClass:52 - Password Passed
+2018-09-14 09:54:53 INFO  BaseClass:52 - Confirm Password Passed
+2018-09-14 09:54:54 INFO  BaseClass:72 - Button click passed
+2018-09-14 09:54:56 INFO  BaseClass:89 - Verification Successful
+2018-09-14 09:54:56 INFO  BaseClass:32 - Browser Closed
+2018-09-14 09:54:56 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-14 09:54:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-14 09:54:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-14 09:54:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-14 09:54:56 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1046818/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-14 09:54:56 INFO  BaseClass:39 - Test Started
+2018-09-14 09:54:56 INFO  BaseClass:45 - Login 1
+2018-09-14 09:54:59 INFO  BaseClass:27 - Browser Opened
+2018-09-14 09:55:05 INFO  BaseClass:41 - Navigated to URL
+2018-09-14 09:55:07 INFO  BaseClass:72 - Button click passed
+2018-09-14 09:55:08 INFO  BaseClass:72 - Button click passed
+2018-09-14 09:55:08 INFO  BaseClass:52 - User Name Passed
+2018-09-14 09:55:09 INFO  BaseClass:52 - Password Passed
+2018-09-14 09:55:10 INFO  BaseClass:72 - Button click passed
+2018-09-14 09:55:13 INFO  BaseClass:89 - Verification Successful
+2018-09-14 09:55:14 INFO  BaseClass:32 - Browser Closed
+2018-09-14 09:55:14 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-14 09:55:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-14 09:55:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-14 09:55:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-14 09:55:14 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1046818/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-14 09:55:14 INFO  BaseClass:39 - Test Started
+2018-09-14 09:55:14 INFO  BaseClass:45 - Login 2
+2018-09-14 09:55:16 INFO  BaseClass:27 - Browser Opened
+2018-09-14 09:55:32 INFO  BaseClass:41 - Navigated to URL
+2018-09-14 09:55:34 INFO  BaseClass:72 - Button click passed
+2018-09-14 09:55:34 INFO  BaseClass:72 - Button click passed
+2018-09-14 09:55:35 INFO  BaseClass:52 - User Name Passed
+2018-09-14 09:55:35 INFO  BaseClass:52 - Password Passed
+2018-09-14 09:55:36 INFO  BaseClass:72 - Button click passed
+2018-09-14 09:55:39 INFO  BaseClass:89 - Verification Successful
+2018-09-14 09:55:39 INFO  BaseClass:32 - Browser Closed
+2018-09-14 09:55:39 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-14 09:55:39 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-14 09:55:39 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-14 09:55:39 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-14 09:55:39 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1046818/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-14 09:55:39 INFO  BaseClass:39 - Test Started
+2018-09-14 09:55:39 INFO  BaseClass:45 - Login 3
+2018-09-14 09:55:42 INFO  BaseClass:27 - Browser Opened
+2018-09-14 09:55:48 INFO  BaseClass:41 - Navigated to URL
+2018-09-14 09:55:50 INFO  BaseClass:72 - Button click passed
+2018-09-14 09:55:50 INFO  BaseClass:72 - Button click passed
+2018-09-14 09:55:51 INFO  BaseClass:52 - User Name Passed
+2018-09-14 09:55:51 INFO  BaseClass:52 - Password Passed
+2018-09-14 09:55:52 INFO  BaseClass:72 - Button click passed
+2018-09-14 09:55:55 INFO  BaseClass:89 - Verification Successful
+2018-09-14 09:55:55 INFO  BaseClass:32 - Browser Closed
+2018-09-14 09:55:55 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-14 09:55:55 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-14 09:55:55 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-14 09:55:55 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-14 09:55:55 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1046818/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-14 09:55:55 INFO  BaseClass:39 - Test Started
+2018-09-14 09:55:55 INFO  BaseClass:45 - Logout 1
+2018-09-14 09:55:58 INFO  BaseClass:27 - Browser Opened
+2018-09-14 09:56:04 INFO  BaseClass:41 - Navigated to URL
+2018-09-14 09:56:06 INFO  BaseClass:72 - Button click passed
+2018-09-14 09:56:06 INFO  BaseClass:72 - Button click passed
+2018-09-14 09:56:07 INFO  BaseClass:52 - User Name Passed
+2018-09-14 09:56:08 INFO  BaseClass:52 - Password Passed
+2018-09-14 09:56:08 INFO  BaseClass:72 - Button click passed
+2018-09-14 09:56:13 INFO  BaseClass:72 - Button click passed
+2018-09-14 09:56:14 INFO  BaseClass:72 - Button click passed
+2018-09-14 09:56:14 INFO  BaseClass:32 - Browser Closed
+2018-09-14 09:56:14 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-14 09:56:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-14 09:56:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-14 09:56:14 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-14 09:56:14 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1046818/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-14 09:56:14 INFO  BaseClass:39 - Test Started
+2018-09-14 09:56:14 INFO  BaseClass:45 - Logout 2
+2018-09-14 09:56:16 INFO  BaseClass:27 - Browser Opened
+2018-09-14 09:56:23 INFO  BaseClass:41 - Navigated to URL
+2018-09-14 09:56:24 INFO  BaseClass:72 - Button click passed
+2018-09-14 09:56:25 INFO  BaseClass:72 - Button click passed
+2018-09-14 09:56:25 INFO  BaseClass:52 - User Name Passed
+2018-09-14 09:56:26 INFO  BaseClass:52 - Password Passed
+2018-09-14 09:56:27 INFO  BaseClass:72 - Button click passed
+2018-09-14 09:56:30 INFO  BaseClass:72 - Button click passed
+2018-09-14 09:56:31 INFO  BaseClass:72 - Button click passed
+2018-09-14 09:56:31 INFO  BaseClass:32 - Browser Closed
+2018-09-14 09:56:31 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-09-14 09:56:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2018-09-14 09:56:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-09-14 09:56:31 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-09-14 09:56:31 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/M1046818/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-09-14 09:56:31 INFO  BaseClass:83 - COMPLETE !!!
